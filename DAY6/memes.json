@@ -1,0 +1,22 @@
+{
+  "memes": [
+    {
+      "id": 1,
+      "title": "Funny Cat",
+      "category": "animal",
+      "image_url": "https://example.com/funny_cat.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Office Joke",
+      "category": "work",
+      "image_url": "https://example.com/office_joke.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Programmer Meme",
+      "category": "technology",
+      "image_url": "https://example.com/programmer_meme.jpg"
+    }
+  ]
+}
