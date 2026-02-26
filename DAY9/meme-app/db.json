@@ -1,0 +1,28 @@
+{
+  "memes": [
+    {
+      "id": 1,
+      "title": "Distracted Boyfriend",
+      "image": "https://i.imgflip.com/1ur9b0.jpg",
+      "category": "Classic",
+      "likes": 2450,
+      "createdAt": "2026-02-20"
+    },
+    {
+      "id": 2,
+      "title": "Drake Hotline Bling",
+      "image": "https://i.imgflip.com/30b1gx.jpg",
+      "category": "Reaction",
+      "likes": 3200,
+      "createdAt": "2026-02-18"
+    },
+    {
+      "id": 3,
+      "title": "Two Buttons",
+      "image": "https://i.imgflip.com/1g8my4.jpg",
+      "category": "Decision",
+      "likes": 1800,
+      "createdAt": "2026-02-15"
+    }
+  ]
+}
