@@ -1,0 +1,18 @@
+.aboutSection {
+  background-color: #9fd8e3;
+  padding: 60px;
+  text-align: center;
+}
+
+.content {
+  margin-top: 20px;
+}
+
+.content ul {
+  list-style: none;
+  padding: 0;
+}
+
+.content li {
+  margin: 8px 0;
+}
